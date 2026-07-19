@@ -1,4 +1,4 @@
-# Fortinet-Certificates # Fortinet Training Institute Certificates
+# Fortinet-Certificates 
 
 This repository contains my certificates from the Fortinet Training Institute.
 
